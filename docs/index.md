@@ -9,7 +9,7 @@ Single points of failure - processes of value transfer where trusted third party
 These actions correspond to the value that the participants add to the ecosystem. When there is no human actors with administrator permissions that can change value distribution processes there is no risk of such actors would become corrupt and make changes in their favour. This consistency of code is a pretty useful feature in the context of gambling business. 
  Security of the system is achieved through transparency, consistency and cryptographic verifiability of software used to automate processes otherwise involving trust, and economic incentive mechanisms for it’s human participants. 
  
- ** Main components of DAO.Casino protocol are:**
+ ** Main components of DAO.Casino protocol**
  
  * **Reward System**
  * **Random Generation**
@@ -17,7 +17,7 @@ These actions correspond to the value that the participants add to the ecosystem
  * **Front-end Platforms** 
  
  
-DAO.Casino protocol still has a fee system, but the distribution of fees is a hard coded reward system for all the participants described further. There is no hidden fees. Dao.Casino distributes tokens accumulated by a particular game contract as follows: 
+DAO.Casino protocol still has a fee system, but the distribution of fees is a hard coded reward system for all the participants described below. There is no hidden fees. Dao.Casino distributes tokens accumulated by a particular game contract as follows: 
 
 Game Developer - 25%
 Casino Operator * - 25% 

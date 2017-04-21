@@ -2,7 +2,7 @@
 
 The objective of Dao.Casino protocol is to enable a sustainable model which benefits all the parties involved in the online gambling business process. (i.e it should be more profitable for the developer to use Dao.Casino protocol, rather than work on its own, and less costly for a casino operator to provide better service for the players. Players should have access to more diverse range of games from independent game developers while having a higher level of security than in traditional online casinos).
 
-**The goal is to allow independent participants: casino operators, developers, players, refferers etc to co-exist and cooperate without trusting each other, and to get rewarded for their contributions)**
+**The goal is to allow independent participants: casino operators, developers, players, refferers etc to co-exist and cooperate without trusting each other, and to get rewarded for their contributions**
 
 Single points of failure - processes of value transfer where trusted third party would be required in a conventional online gambling business is replaced by code consistently executed by Ethereum network - a system of smart contracts. These contracts are, simply speaking, just escrows that can be triggered by particular actions performed by the participants and nothing else. 
 
@@ -29,7 +29,7 @@ Bankroll backers - 25%
 Despite of Gas cost that is required for Ethereum powered software to run, the fees should remain lower than in traditional server based online gambling. This is because the gas is paid per operation, and only for the operations and storage that is used. 
 Game’s front end can be stored either on the server or on the network using decentralised file storage systems such as IPFS or Ethereum’s native Swarm. Using Swarm will also allow to program the game to pay for it’s own front-end storage.
 
-###Dao.Casino Protocol Goals:
+### Dao.Casino Protocol Goals:
 
 * Remove the need in a trusted party in all aspects of online gambling industry, therefore:
 * Reduce operational costs of online gambling therefore provide higher payouts
